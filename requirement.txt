@@ -1,8 +1,0 @@
-sqlalchemy 
-fastapi 
-pydantic 
-ipython 
-psycopg2-binary
-uvicorn 
-bcrypt==4.0.1
-python-dotenv
